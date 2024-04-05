@@ -1,2 +1,2 @@
-# This is My Assignments Repo for PIAIC Assignments.
-This is my repo for piaic assignments 
+# This is My Assignments Repo for Typescript Q1 PIAIC Assignments.
+This Repo is only for Q! Typescript Assignments 
